@@ -8,6 +8,6 @@
 
 - 🌱 I’m currently learning JavaScript
 
-### Mail me: temirbolatov17@gmail.com
-### Telegram: @temirbolatov
-### Instagram: @abay.temirbolatov
+### ✉ Mail me: temirbolatov17@gmail.com
+### ✈ Telegram: @temirbolatov
+### 🌐 Instagram: @abay.temirbolatov
