@@ -1,4 +1,4 @@
-# 👋 Hi, my name is **Abay Temirbolat**! 
+# 👋 Hi, my name is **Abay**! 
 ## I'm a beginner *Front-end developer* from Astana.
 
 ### Languages and Technologies
