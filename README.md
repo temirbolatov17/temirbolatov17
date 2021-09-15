@@ -8,7 +8,7 @@
 ![Sass](https://img.shields.io/badge/Sass-090909?style=for-the-badge&logo=sass)
 ![Gulp](https://img.shields.io/badge/Gulp-090909?style=for-the-badge&logo=gulp)
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and vue.js
 
 ### ✉ Mail me: temirbolatov17@gmail.com
 ### ✈ Telegram: @temirbolatov
