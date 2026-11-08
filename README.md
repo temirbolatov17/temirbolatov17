@@ -1,5 +1,5 @@
 # 👋 Hi, my name is **Abay**! 
-## I'm a beginner *Front-end developer* from Astana.
+## I'm a *QA Engineer* from Astana.
 
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
@@ -8,7 +8,7 @@
 ![Sass](https://img.shields.io/badge/Sass-090909?style=for-the-badge&logo=sass)
 ![Gulp](https://img.shields.io/badge/Gulp-090909?style=for-the-badge&logo=gulp)
 
-- 🌱 I’m currently learning JavaScript and vue.js
+- 🌱 I’m currently learning Java and AI, RAG
 
 ### ✉ Mail me: temirbolatov17@gmail.com
 ### ✈ Telegram: @temirbolatov
